@@ -4,15 +4,15 @@
 
   <!-- resources -->
   <zojax:resourcedirectory
-     name="jquery-timers"
+     name="jquery-urlize"
      directory="resources"
      mapping=".css:zrt" />
 
   <zojax:resourceinclude
-     name="jquery.timers.js"
+     name="jquery.urlize.js"
      library="jquery-plugins" require="jquery"
-     type="javascript" path="jquery-timers/jquery.timers.js"
+     type="javascript" path="jquery-urlize/jquery.urlize.js"
      compress="yes" />
-       
+
 
 </configure>

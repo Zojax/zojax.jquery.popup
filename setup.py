@@ -11,7 +11,7 @@
 # FOR A PARTICULAR PURPOSE.
 #
 ##############################################################################
-"""Setup for zojax.jquery.timers package
+"""Setup for zojax.jquery.urlize package
 
 $Id$
 """
@@ -24,9 +24,9 @@ def read(*rnames):
 version='0'
 
 
-setup(name='zojax.jquery.timers',
+setup(name='zojax.jquery.urlize',
       version=version,
-      description="JQuery timers Plugin",
+      description="JQuery urlize Plugin",
       long_description=(
           'Detailed Documentation\n' +
           '======================\n'
