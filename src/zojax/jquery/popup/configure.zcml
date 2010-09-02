@@ -4,14 +4,14 @@
 
   <!-- resources -->
   <zojax:resourcedirectory
-     name="jquery-urlize"
+     name="jquery-popup"
      directory="resources"
      mapping=".css:zrt" />
 
   <zojax:resourceinclude
-     name="jquery.urlize.js"
+     name="jquery.popup.js"
      library="jquery-plugins" require="jquery"
-     type="javascript" path="jquery-urlize/jquery.urlize.js"
+     type="javascript" path="jquery-popup/jquery.popupWindow.js"
      compress="yes" />
 
 

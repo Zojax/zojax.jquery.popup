@@ -11,7 +11,7 @@
 # FOR A PARTICULAR PURPOSE.
 #
 ##############################################################################
-"""Setup for zojax.jquery.urlize package
+"""Setup for zojax.jquery.popup package
 
 $Id$
 """
@@ -24,9 +24,9 @@ def read(*rnames):
 version='0'
 
 
-setup(name='zojax.jquery.urlize',
+setup(name='zojax.jquery.popup',
       version=version,
-      description="JQuery urlize Plugin",
+      description="JQuery popup Plugin",
       long_description=(
           'Detailed Documentation\n' +
           '======================\n'
